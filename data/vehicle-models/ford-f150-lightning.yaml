@@ -1,0 +1,11 @@
+id: ford-f150-lightning
+name: F-150 Lightning
+manufacturer_id: ford
+brand: Ford
+body_style: pickup
+segment: J
+metadata:
+  data_quality: unverified
+  created_at: "2026-09-30"
+  sources:
+    - https://ev-database.org/

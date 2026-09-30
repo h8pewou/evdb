@@ -1,0 +1,11 @@
+id: smart-eq-fortwo-cabrio
+name: EQ fortwo cabrio
+manufacturer_id: smart
+brand: smart
+body_style: convertible
+segment: A
+metadata:
+  data_quality: unverified
+  created_at: "2026-09-30"
+  sources:
+    - https://ev-database.org/

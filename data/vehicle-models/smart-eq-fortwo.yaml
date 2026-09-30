@@ -1,0 +1,11 @@
+id: smart-eq-fortwo
+name: EQ fortwo
+manufacturer_id: smart
+brand: smart
+body_style: hatchback
+segment: A
+metadata:
+  data_quality: unverified
+  created_at: "2026-09-30"
+  sources:
+    - https://ev-database.org/

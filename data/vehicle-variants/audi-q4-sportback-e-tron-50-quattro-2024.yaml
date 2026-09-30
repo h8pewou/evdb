@@ -1,0 +1,19 @@
+id: audi-q4-sportback-e-tron-50-quattro-2024
+name: 50 quattro
+model_id: audi-q4-sportback-e-tron
+model_year: 2024
+battery:
+  usable_kwh: 76.6
+  total_kwh: 82
+range:
+  wltp_km: 509
+charging:
+  ac_max_kw: 11
+  ac_connector: Type2
+  dc_max_kw: 175
+  dc_connector: CCS2
+metadata:
+  data_quality: unverified
+  created_at: "2026-09-30"
+  sources:
+    - https://ev-database.org/

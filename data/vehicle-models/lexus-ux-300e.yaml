@@ -1,0 +1,11 @@
+id: lexus-ux-300e
+name: UX 300e
+manufacturer_id: lexus
+brand: Lexus
+body_style: crossover
+segment: J
+metadata:
+  data_quality: unverified
+  created_at: "2026-09-30"
+  sources:
+    - https://ev-database.org/

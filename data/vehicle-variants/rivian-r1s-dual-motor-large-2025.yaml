@@ -1,0 +1,17 @@
+id: rivian-r1s-dual-motor-large-2025
+name: Dual-Motor Large
+model_id: rivian-r1s
+model_year: 2025
+battery:
+  usable_kwh: 108.5
+  total_kwh: 114
+charging:
+  ac_max_kw: 11.5
+  ac_connector: Type2
+  dc_max_kw: 220
+  dc_connector: CCS2
+metadata:
+  data_quality: unverified
+  created_at: "2026-09-30"
+  sources:
+    - https://ev-database.org/
