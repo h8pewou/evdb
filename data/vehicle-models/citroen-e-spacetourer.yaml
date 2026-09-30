@@ -1,7 +1,7 @@
 id: citroen-e-spacetourer
 name: e-SpaceTourer
 manufacturer_id: stellantis
-brand: Citroen
+brand: "Citroën"
 body_style: mpv
 segment: M
 metadata:

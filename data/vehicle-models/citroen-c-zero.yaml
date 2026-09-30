@@ -1,7 +1,7 @@
 id: citroen-c-zero
 name: C-Zero
 manufacturer_id: stellantis
-brand: Citroen
+brand: "Citroën"
 body_style: hatchback
 segment: A
 metadata:

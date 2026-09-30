@@ -1,8 +1,8 @@
 id: vinfast-vf6
-name: VF 6
+name: VF6
 manufacturer_id: vinfast
-brand: VinFast
-body_style: crossover
+brand: "VinFast"
+body_style: suv
 segment: J
 metadata:
   data_quality: unverified

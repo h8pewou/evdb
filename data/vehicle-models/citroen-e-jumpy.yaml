@@ -1,7 +1,7 @@
 id: citroen-e-jumpy
 name: e-Jumpy
 manufacturer_id: stellantis
-brand: Citroen
+brand: "Citroën"
 body_style: van
 segment: M
 metadata:

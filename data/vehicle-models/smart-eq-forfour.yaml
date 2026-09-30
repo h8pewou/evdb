@@ -1,7 +1,7 @@
 id: smart-eq-forfour
 name: EQ forfour
 manufacturer_id: smart
-brand: smart
+brand: "Smart"
 body_style: hatchback
 segment: A
 metadata:

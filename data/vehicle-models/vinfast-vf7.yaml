@@ -1,7 +1,7 @@
 id: vinfast-vf7
-name: VF 7
+name: VF7
 manufacturer_id: vinfast
-brand: VinFast
+brand: "VinFast"
 body_style: suv
 segment: J
 metadata:

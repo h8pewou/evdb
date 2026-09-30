@@ -1,7 +1,7 @@
 id: smart-eq-fortwo-cabrio
 name: EQ fortwo cabrio
 manufacturer_id: smart
-brand: smart
+brand: "Smart"
 body_style: convertible
 segment: A
 metadata:

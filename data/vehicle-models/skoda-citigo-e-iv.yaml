@@ -1,7 +1,7 @@
 id: skoda-citigo-e-iv
 name: Citigo-e iV
 manufacturer_id: skoda
-brand: Skoda
+brand: "Škoda"
 body_style: hatchback
 segment: A
 metadata:
