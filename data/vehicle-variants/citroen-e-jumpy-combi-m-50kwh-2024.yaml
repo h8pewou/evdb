@@ -1,0 +1,19 @@
+id: citroen-e-jumpy-combi-m-50kwh-2024
+name: Combi M 50 kWh
+model_id: citroen-e-jumpy
+model_year: 2024
+battery:
+  usable_kwh: 46.3
+  total_kwh: 50
+range:
+  wltp_km: 227
+charging:
+  ac_max_kw: 7.4
+  ac_connector: Type2
+  dc_max_kw: 101
+  dc_connector: CCS2
+metadata:
+  data_quality: unverified
+  created_at: "2026-09-30"
+  sources:
+    - https://ev-database.org/

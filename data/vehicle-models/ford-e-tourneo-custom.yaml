@@ -1,0 +1,11 @@
+id: ford-e-tourneo-custom
+name: E-Tourneo Custom
+manufacturer_id: ford
+brand: Ford
+body_style: mpv
+segment: M
+metadata:
+  data_quality: unverified
+  created_at: "2026-09-30"
+  sources:
+    - https://ev-database.org/
