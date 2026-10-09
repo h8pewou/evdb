@@ -1,5 +1,5 @@
 id: audi-q4-e-tron-35-2025
-name: 35
+name: "35"
 model_id: audi-q4-e-tron
 model_year: 2025
 battery:
@@ -15,5 +15,6 @@ charging:
 metadata:
   data_quality: unverified
   created_at: "2026-09-30"
+  updated_at: "2026-10-09"
   sources:
     - https://ev-database.org/
