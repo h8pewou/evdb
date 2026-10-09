@@ -1,4 +1,4 @@
-id: rivian-r1s-performance-dual-motor-awd-standard-plus-2024
+﻿id: rivian-r1s-performance-dual-motor-awd-standard-plus-2024
 name: Performance Dual-Motor AWD Standard+
 model_id: rivian-r1s
 model_year: 2024
@@ -7,11 +7,12 @@ battery:
   total_kwh: 127.4
 charging:
   ac_max_kw: 11.5
-  ac_connector: Type2
+  ac_connector: Type1
   dc_max_kw: 215
-  dc_connector: CCS2
+  dc_connector: CCS1
 metadata:
   data_quality: unverified
   created_at: "2026-09-30"
+  updated_at: "2026-10-09"
   sources:
-    - https://ev-database.org/
+    - https://rivian.com/r1s

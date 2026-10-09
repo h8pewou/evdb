@@ -1,4 +1,4 @@
-id: jeep-wagoneer-s-wagoneer-s-2025
+﻿id: jeep-wagoneer-s-wagoneer-s-2025
 name: Wagoneer S
 model_id: jeep-wagoneer-s
 model_year: 2025
@@ -7,11 +7,12 @@ battery:
   total_kwh: 100.5
 charging:
   ac_max_kw: 11
-  ac_connector: Type2
+  ac_connector: Type1
   dc_max_kw: 200
-  dc_connector: CCS2
+  dc_connector: CCS1
 metadata:
   data_quality: unverified
   created_at: "2026-09-30"
+  updated_at: "2026-10-09"
   sources:
-    - https://ev-database.org/
+    - https://www.jeep.com/wagoneer/wagoneer-s.html

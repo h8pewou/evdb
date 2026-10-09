@@ -1,4 +1,4 @@
-id: chevrolet-silverado-ev
+﻿id: chevrolet-silverado-ev
 name: Silverado EV
 manufacturer_id: general-motors
 brand: Chevrolet
@@ -7,5 +7,6 @@ segment: J
 metadata:
   data_quality: unverified
   created_at: "2026-09-30"
+  updated_at: "2026-10-09"
   sources:
-    - https://ev-database.org/
+    - https://www.chevrolet.com/electric/silverado-ev
